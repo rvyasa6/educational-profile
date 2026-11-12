@@ -2,7 +2,7 @@
 
 Educational profile for part time, sessional and continuing education teaching in artificial intelligence and business strategy
 
-Oakville, Ontario | vyasaronak@gmail.com | LinkedIn https://ca.linkedin.com/in/rvyasa | GitHub https://github.com/rvyasa6
+vyasaronak@gmail.com | LinkedIn https://ca.linkedin.com/in/rvyasa | GitHub https://github.com/rvyasa6
 
 ## About
 
@@ -21,10 +21,13 @@ I work in enterprise artificial intelligence strategy at a major Canadian bank, 
 ## Teaching and training experience
 
 **Instructor for internal business training, enterprise GenAI program, major Canadian bank, 2025 to present**
-Designed and delivered formal training sessions for business teams adopting generative AI use cases, covering practical workflows, safe use and the governance rules that apply in a regulated setting.
+Designed and delivered formal training sessions for business teams adopting generative AI use cases, and ran the office hours, workshops and hackathons around them that helped staff build everyday AI literacy, covering practical workflows, safe use and the governance rules that apply in a regulated setting.
 
-**Organizer and instructor, free AI literacy workshops, Oakville, Ontario, 2026 to present**
+**Organizer and instructor, free AI literacy workshops, community program, 2026 to present**
 Building a free community workshop series that gives newcomers, job seekers and residents hands on practice with everyday AI tools, with outreach to local community partners underway.
+
+**STEM session instructor, community programs for kids, ongoing**
+Teaches STEM sessions for kids in community settings, making technology ideas approachable for young learners.
 
 ## Education
 
@@ -38,7 +41,7 @@ Concentrations in Technology Innovation and Product Management, Operations, Cons
 ## Professional experience relevant to teaching
 
 **Technical Program Manager, Enterprise AI Strategy, CIBC, Jul 2025 to present**
-Leading a multimillion dollar enterprise generative AI enablement program across engineering, security, compliance, risk and governance teams, with several use cases live in production and a focus on measurable business outcomes.
+Leading an enterprise generative AI enablement program across engineering, security, compliance, risk and governance teams, with several use cases live in production and a focus on measurable business outcomes.
 
 **Engineering Program Manager Intern, Apple, May 2024 to Aug 2024**
 Ran a release program covering more than 75 applications on an internal fleet management platform, working with eight stakeholder groups and partnering with a machine learning team on agent automation.
