@@ -1,6 +1,6 @@
-# Ronak Vyas, Educational Profile
+# Ronak Vyas, Teaching Portfolio
 
-Educational profile for part time, sessional and continuing education teaching in artificial intelligence and business strategy
+Teaching portfolio for part time, sessional and continuing education teaching in artificial intelligence and business strategy
 
 vyasaronak@gmail.com | LinkedIn https://ca.linkedin.com/in/rvyasa | GitHub https://github.com/rvyasa6
 
@@ -91,4 +91,4 @@ Available for part time, sessional, adjunct and continuing education teaching, i
 
 ---
 
-Draft for review. This profile is shared with institutions alongside a resume and cover letter tailored to each posting. Nothing is submitted without the author's approval of the final text for that institution.
+Draft for review. This portfolio is shared with institutions alongside a resume and cover letter tailored to each posting. Nothing is submitted without the author's approval of the final text for that institution.
